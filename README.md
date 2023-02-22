@@ -1,2 +1,1 @@
-# ImageVisualization
-Image visualization is the process of creating visual representations of images, with the goal of better understanding and communicating the information contained in those images. This can involve a variety of techniques, including color coding, scaling, filtering, and more.
+In this portfolio, you will find various examples of image visualization techniques and tools that I have utilized. This guide will provide an overview of the portfolio and some information about each project..
